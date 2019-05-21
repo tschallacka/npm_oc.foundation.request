@@ -1,0 +1,28 @@
+{
+  "name": "@tschallacka/oc.foundation.request",
+  "version": "1.0.0",
+  "description": "The request object for making October foundation requests",
+  "main": "oc.foundation.request.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tschallacka/npm_oc.foundation.request.git"
+  },
+  "keywords": [
+    "october",
+    "octobercms",
+    "ajax",
+    "jquery"
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "author": "Tschallacka, OctoberCMS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tschallacka/npm_oc.foundation.request/issues"
+  },
+  "homepage": "https://github.com/tschallacka/npm_oc.foundation.request#readme"
+}
