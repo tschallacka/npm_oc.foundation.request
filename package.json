@@ -1,6 +1,6 @@
 {
   "name": "@tschallacka/oc.foundation.request",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The request object for making October foundation requests",
   "main": "oc.foundation.request.js",
   "scripts": {
