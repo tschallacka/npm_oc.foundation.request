@@ -172,7 +172,7 @@ var Request = function (element, handler, options) {
             var _event = jQuery.Event('ajaxErrorMessage')
             $(window).trigger(_event, [message])
             if (_event.isDefaultPrevented()) return
-            if (message) alert(message)
+            if (message) console.error(message);
         },
 
         /*
